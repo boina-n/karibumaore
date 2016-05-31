@@ -5,3 +5,4 @@ from django.db import models
 Class Person(models.Model):
     userid=models.CharField(max_lenght=30)
     mail=models.CharField(max_lenght=30)
+zdzadzad
